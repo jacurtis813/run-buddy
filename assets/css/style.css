@@ -1,3 +1,4 @@
+  /* remove the margin and padding default */
 * {
     margin: 0;
     padding: 0;
@@ -15,7 +16,7 @@ header {
     background-color: #39a6b2;
   }
 
-  /* apply styles to h1 header */
+  /* apply styles to h1 header and create inline */
 header h1 {
     font-weight: bold;
     font-size: 36px;
@@ -36,11 +37,12 @@ header nav {
     margin: 7px 0;
   }
 
-  /**/
+  /* move the list from block to inline*/
   header nav ul li {
     display: inline;
   }
 
+  /* move the margin and font */
   header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
