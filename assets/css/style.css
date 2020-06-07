@@ -57,7 +57,7 @@ header nav {
     padding: 40px 35px;
   }
 
-  /* apply style to the left */
+  /* style the footer to left */
   footer h2 {
     display: inline;
     color: #024e76;
@@ -65,8 +65,8 @@ header nav {
     margin: 0;
   }
 
-  /* apply style to div footer */
-  footer div {
+   /* apply style to div footer */
+   footer div {
     float: right;
     line-height: 1.5;
     text-align: right;
@@ -76,3 +76,15 @@ header nav {
   footer a {
     color: #024e76;
   }
+
+  /* apply style to all sections*/
+  section {
+    padding: 60px;
+  }
+
+  /* hero style start */
+  .hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+  }
+  /* hero style end */
