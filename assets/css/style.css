@@ -103,3 +103,30 @@ header nav {
     bottom: 120px;
     right: 140px;
   }
+
+  /* style the form input */
+  .form-input {
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  /*stle the form label */
+  .hero-form label {
+    margin: 0 5px;
+  }
+
+  /* style the hero button */
+  .hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  /* HERO STYLES END */
+  
