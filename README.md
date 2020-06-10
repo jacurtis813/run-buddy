@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://jacurtis813.github.io/run-buddy/
 
 ## Contribution
-Made with ❤ by Justin
+Made with ❤ by Justin Allan Curtis
