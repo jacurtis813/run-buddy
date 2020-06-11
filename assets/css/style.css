@@ -163,6 +163,7 @@ section {
   /* style the steps class */
 .steps {
     background: #fce138;
+    text-align: center;
 }
 
 .steps div {
